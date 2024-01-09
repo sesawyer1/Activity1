@@ -113,7 +113,7 @@ function initVertexBuffers(gl) {
      0.1, -0.5, 0.0, 1.0, // new vertex 
      
   ]);
-  var n = 6; // The number of vertices
+  var n = 7; // The number of vertices
 
   // Then in the GPU, create a vertex buffer object (VBO) to hold vertex data:
   var VBOloc = gl.createBuffer();	// get it's 'handle'
