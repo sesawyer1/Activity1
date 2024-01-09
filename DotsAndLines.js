@@ -110,6 +110,7 @@ function initVertexBuffers(gl) {
      0.0, -0.2, 0.0, 1.0, 	
      0.5, -0.5, 0.0, 1.0,	
      0.2,  0.0, 0.0, 1.0, 
+     0.1, -0.5, 0.0, 1.0, // new vertex 
      
   ]);
   var n = 6; // The number of vertices
